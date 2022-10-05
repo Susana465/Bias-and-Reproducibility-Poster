@@ -81,11 +81,16 @@ This is one of the most common misconceptions when reporting. Even having an ext
 
 It can be useful to think:
 - How will my research be used in the future?
-- Am I feeding into positive results publishing? Slow science manifesto.
+- Am I feeding into positive results publishing? [Good article to read and think](https://psycnet.apa.org/fulltext/2014-20922-001.html)
+- Slow science manifesto - there are many, but [here's](https://acofacien.org/images/files/BIBLIOTECA/Poliiticas_educacion_superior/SLOW%20SCIENCE%20MANIFESTO.pdf) an example.
 
 ### 4.2. Tools for reproducibility
-- Jupyter notebooks? Data published. DOI. 
-- Share and licence your research.
+- [Jupyter notebooks](https://escholarship.org/content/qt5w52878j/qt5w52878j_noSplash_bd899b661901fae486923c953fbcb877.pdf), [Open Lab Notebooks](https://the-turing-way.netlify.app/reproducible-research/open/open-notebooks.html?highlight=open%20lab%20notebooks)
+- Share and licence your research. 
+- Suitable data repositories by subject, content type or location can be found at:
+    - [re3data.org](https://www.re3data.org/)
+- You can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them, through:
+    - [fairsharing.org](https://fairsharing.org/search?fairsharingRegistry=Database)
 
 ### Acknowledgements:
 This poster has bloomed in response to many discussions and credit should be given to [David C Sterratt](https://github.com/davidcsterratt), [Melanie Stefan](https://github.com/MelanieIStefan), [Nicola Romano](https://github.com/nicolaromano), [Malvika Sharan](https://github.com/malvikasharan) and Claudia Fischer.
