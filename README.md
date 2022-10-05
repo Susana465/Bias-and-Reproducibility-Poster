@@ -1,6 +1,6 @@
 # Bias-and-Reproducibility-Poster: Bias and reproducibility in a computational neurobiology PhD's journey. 
 
-This was a poster created for the COMBINE and ICSB 2022 conferences.
+This was a poster created for the COMBINE and ICSB 2022 conferences. 
 
 ### What do I do?
 -	Computer modelling
@@ -44,6 +44,8 @@ Version control, code literacy and planning where I will keep and share my data 
 -  [(re)Learn how to Version Control on Git](https://carpentries-incubator.github.io/git-novice-branch-pr/)
 -  [The Good Research Code Handbook](https://goodresearch.dev/)
 -  [Defining Reproducibility/Replicability/Robustness/Generalisability](https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html)
+-  [Zenodo](https://about.zenodo.org/)
+-  [OSF: Open Sciences Framework](https://help.osf.io/article/342-getting-started-on-the-osf)
 
 ## 2. Data Collection
 ### 2.1. What's the Bias here?
@@ -60,7 +62,7 @@ It's helpful to think where you are keeping the data, and how will you share it 
 ## 3. Data Analysis
 ### 3.1. What's the Bias here?
 Who is your research serving? Am I continuing an ableist bias to “fix” individuals? Racist bias? Sexist bias? The list is quite endless.
-There is a historical bias in how science has been made. This affects the present of how science is still being done.
+There is a historical bias in how science has been made. This affects the present of how science is still being done. There is a need to deconolize science. 
 - [Good book on historical bias of Mental Health Sciences/Neuroscience](https://pmpress.org.uk/product/warp-weft/)
 - [Who makes science?: Identity and positionality](https://the-turing-way.netlify.app/ethical-research/self-reflection/sr-positionality.html?highlight=bias)
 
@@ -73,5 +75,17 @@ Again, how much am I simplifying an explanation into molecules when in reality a
 
 ## 4. Reporting
 ### 4.1. What's the Bias here?
-### 4.2. Tools for reproducibility
+"Everything is in the paper; anyone can reproduce this from there!"
 
+This is one of the most common misconceptions when reporting. Even having an extremely detailed description of the methods and workflows employed to reach the final result will not be sufficient in most cases to reproduce it. This can be due to several aspects, including different computational environments, differences in the software versions, implicit biases that were not clearly stated, etc.
+
+It can be useful to think:
+- How will my research be used in the future?
+- Am I feeding into positive results publishing? Slow science manifesto.
+
+### 4.2. Tools for reproducibility
+- Jupyter notebooks? Data published. DOI. 
+- Share and licence your research.
+
+### Acknowledgements:
+This poster has bloomed in response to many discussions and credit should be given to [David C Sterratt](https://github.com/davidcsterratt), [Melanie Stefan](https://github.com/MelanieIStefan), [Nicola Romano](https://github.com/nicolaromano), [Malvika Sharan](https://github.com/malvikasharan) and Claudia Fischer.
