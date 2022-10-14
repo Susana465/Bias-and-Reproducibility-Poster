@@ -1,6 +1,6 @@
 # Bias-and-Reproducibility-Poster: Bias and reproducibility in a computational neurobiology PhD's journey. 
 
-This was a poster created for the COMBINE and ICSB 2022 conferences. 
+This was a poster created for the [COMBINE](https://combine-org.github.io/events/) and [ICSB](https://www.icsb2022.berlin/home) 2022 conferences. 
 
 ### What do I do?
 -	Computer modelling
