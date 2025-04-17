@@ -18,6 +18,7 @@ authors:
   orcid: "https://orcid.org/0000-0001-6619-7369"
 - family-names: "Fischer"
   given-names: "Claudia"
+type: poster
 title: "Bias and reproducibility in a computational neurobiology PhD's journey."
 conference: "ICSB - 21st International Conference on Systems Biology"
 date-released: 2022-10-05
